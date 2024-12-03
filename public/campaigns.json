@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Jacket Donation Drive",
+    "image": "https://i.ibb.co.com/q5Lm9fz/jacket.jpg",
+    "description": "Donate a warm jacket to help those in Dhaka face the harsh winter. A small contribution goes a long way in keeping someone warm.",
+    "status": "Active",
+    "contactInfo": "dhaka@donationcampaign.com",
+    "division": "Dhaka"
+  },
+  {
+    "id": 2,
+    "title": "Woolen Sweater Collection",
+    "image": "https://i.ibb.co.com/3hVhSnB/sweater-01.jpg",
+    "description": "Help us collect woolen sweaters for families in Dhaka. Each sweater you donate will bring warmth to those who need it most.",
+    "status": "Active",
+    "contactInfo": "dhaka@donationcampaign.com",
+    "division": "Dhaka"
+  },
+  {
+    "id": 3,
+    "title": "Blanket Collection",
+    "image": "https://i.ibb.co.com/PMXbykX/blanket-1.jpg",
+    "description": "Donate a blanket to those in need in Rangpur. A warm blanket can bring comfort during the chilly winter nights.",
+    "status": "Active",
+    "contactInfo": "rangpur@donationcampaign.com",
+    "division": "Rangpur"
+  },
+  {
+    "id": 4,
+    "title": "Woolen Sweater Drive",
+    "image": "https://i.ibb.co.com/7XSX2KW/sweater-03.jpg",
+    "description": "Provide a woolen sweater for those struggling with the cold in Rangpur. Your support brings warmth to families in need.",
+    "status": "Active",
+    "contactInfo": "rangpur@donationcampaign.com",
+    "division": "Rangpur"
+  },
+  {
+    "id": 5,
+    "title": "Blanket Campaign",
+    "image": "https://i.ibb.co.com/FBCc8sF/blanket-2.jpg",
+    "description": "Help us provide blankets to individuals in Mymensingh. A warm blanket can bring relief and comfort during the cold winter season.",
+    "status": "Active",
+    "contactInfo": "mymensingh@donationcampaign.com",
+    "division": "Mymensingh"
+  },
+  {
+    "id": 6,
+    "title": "Jacket Collection for the Needy",
+    "image": "https://i.ibb.co.com/Vp8GJ1H/jacket-1.jpg",
+    "description": "Join our campaign to provide jackets to those struggling with the cold in Mymensingh. Every jacket makes a difference.",
+    "status": "Active",
+    "contactInfo": "mymensingh@donationcampaign.com",
+    "division": "Mymensingh"
+  },
+  {
+    "id": 7,
+    "title": "Warm Shawl Drive",
+    "image": "https://i.ibb.co.com/ZxvYy8c/shwal-2.jpg",
+    "description": "Help us provide warm shawls to individuals in Rajshahi. Your donation can be a source of warmth and kindness.",
+    "status": "Active",
+    "contactInfo": "rajshahi@donationcampaign.com",
+    "division": "Rajshahi"
+  },
+  {
+    "id": 8,
+    "title": "Warm Shawl",
+    "image": "https://i.ibb.co.com/R0drqWF/shwal-3.jpg",
+    "description": "Help us provide warm shawls to individuals in Rajshahi. Your donation can be a source of warmth and kindness.",
+    "status": "Active",
+    "contactInfo": "rajshahi@donationcampaign.com",
+    "division": "Rajshahi"
+  }
+]
